@@ -1,0 +1,106 @@
+{
+  "project_info": {
+    "project_number": "82212290658",
+    "firebase_url": "https://quoteswebsite-2d54e-default-rtdb.firebaseio.com",
+    "project_id": "quoteswebsite-2d54e",
+    "storage_bucket": "quoteswebsite-2d54e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:82212290658:android:76ae7479aa2217ee6f513b",
+        "android_client_info": {
+          "package_name": "com.asadrao.panel2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "82212290658-dlh7vl43g7sm3pq9cu5ic3qc0coujb6s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAROtrckf17_klE5-A23jHnykH9R-fuJbE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "82212290658-dlh7vl43g7sm3pq9cu5ic3qc0coujb6s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:82212290658:android:175022a675ba466b6f513b",
+        "android_client_info": {
+          "package_name": "com.listenraza.quotes_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "82212290658-7u8epaqo623mt2iph9eguqbgk4la0gtu.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.listenraza.quotes_app",
+            "certificate_hash": "6f9e4726d135e2b3ca4080040cd0f3a462a40eaa"
+          }
+        },
+        {
+          "client_id": "82212290658-dlh7vl43g7sm3pq9cu5ic3qc0coujb6s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAROtrckf17_klE5-A23jHnykH9R-fuJbE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "82212290658-dlh7vl43g7sm3pq9cu5ic3qc0coujb6s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:82212290658:android:6be2bab8b8b7848b6f513b",
+        "android_client_info": {
+          "package_name": "com.listenrazaa.inspirationalquotesapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "82212290658-dlh7vl43g7sm3pq9cu5ic3qc0coujb6s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAROtrckf17_klE5-A23jHnykH9R-fuJbE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "82212290658-dlh7vl43g7sm3pq9cu5ic3qc0coujb6s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
